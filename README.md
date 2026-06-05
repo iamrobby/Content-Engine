@@ -22,22 +22,22 @@ The system processes items (e.g., articles, products) into vector representation
 
 ## Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 30px 0; align-items: center;">
 
 **Python**  
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 **Flask**  
-![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/500px-Flask_logo.svg.png)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 
 **Pandas**  
-![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 
 **scikit-learn**  
-![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 
 **Redis**  
-![Redis](https://redis.io/wp-content/uploads/2024/04/Redis_Logo.svg)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
 </div>
 
